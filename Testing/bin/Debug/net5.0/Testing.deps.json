@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Testing/1.0.0": {
+        "dependencies": {
+          "NPF": "1.0.0"
+        },
+        "runtime": {
+          "Testing.dll": {}
+        }
+      },
+      "NPF/1.0.0": {
+        "runtime": {
+          "NPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

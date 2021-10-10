@@ -1,0 +1,12 @@
+D:\DEV\NPF\NPF\bin\Debug\net5.0\NPF.deps.json
+D:\DEV\NPF\NPF\bin\Debug\net5.0\NPF.dll
+D:\DEV\NPF\NPF\bin\Debug\net5.0\ref\NPF.dll
+D:\DEV\NPF\NPF\bin\Debug\net5.0\NPF.pdb
+D:\DEV\NPF\NPF\obj\Debug\net5.0\NPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\NPF\NPF\obj\Debug\net5.0\NPF.AssemblyInfoInputs.cache
+D:\DEV\NPF\NPF\obj\Debug\net5.0\NPF.AssemblyInfo.cs
+D:\DEV\NPF\NPF\obj\Debug\net5.0\NPF.csproj.CoreCompileInputs.cache
+D:\DEV\NPF\NPF\obj\Debug\net5.0\NPF.dll
+D:\DEV\NPF\NPF\obj\Debug\net5.0\ref\NPF.dll
+D:\DEV\NPF\NPF\obj\Debug\net5.0\NPF.pdb
+D:\DEV\NPF\NPF\obj\Debug\net5.0\NPF.csproj.AssemblyReference.cache
